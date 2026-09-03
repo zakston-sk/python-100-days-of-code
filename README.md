@@ -33,7 +33,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [ ] **Day 5** – Password Generator
 - [ ] **Day 6** – Escaping the Maze (functions & while loops)
 - [ ] **Day 7** – Hangman
-- [ ] **Day 8** – Caesar Cipher
+- [ ] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
 - [ ] **Day 9** – Secret Auction Program
 - [ ] **Day 10** – Calculator with functions
 - [ ] **Day 11** – Blackjack (Capstone project)
