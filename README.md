@@ -27,14 +27,14 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 *Foundations – variables, conditionals, loops, functions, basic data structures.*
 
 - [x] **Day 1** – [Band Name Generator](./01_beginner/day_001_band_name_generator/README.md)
-- [ ] **Day 2** – Tip Calculator
-- [ ] **Day 3** – Treasure Island (choose-your-own-adventure)
-- [ ] **Day 4** – Rock Paper Scissors
-- [ ] **Day 5** – Password Generator
-- [ ] **Day 6** – Escaping the Maze (functions & while loops)
-- [ ] **Day 7** – Hangman
-- [ ] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
-- [ ] **Day 9** – Secret Auction Program
+- [x] **Day 2** – Tip Calculator
+- [x] **Day 3** – Treasure Island (choose-your-own-adventure)
+- [x] **Day 4** – Rock Paper Scissors
+- [x] **Day 5** – Password Generator
+- [x] **Day 6** – Escaping the Maze (functions & while loops)
+- [x] **Day 7** – Hangman
+- [x] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
+- [x] **Day 9** – [Secret Auction](./01_beginner/day_009_secret_auction/README.md)
 - [ ] **Day 10** – Calculator with functions
 - [ ] **Day 11** – Blackjack (Capstone project)
 - [ ] **Day 12** – Number Guessing Game
