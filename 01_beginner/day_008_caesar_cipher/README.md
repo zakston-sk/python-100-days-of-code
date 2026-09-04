@@ -16,4 +16,4 @@ A Python program that encrypts and decrypts messages using the Caesar cipher tec
 4. Follow the prompts.
 
 ## Screenshot
-![Band Name Generator in action](screenshot.png)
+![Caesar Cipher in action](screenshot.png)
