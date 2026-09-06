@@ -29,7 +29,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 1** – [Band Name Generator](./01_beginner/day_001_band_name_generator/README.md)
 - [x] **Day 2** – [Tip Calculator](./01_beginner/day_002_tip-calculator/README.md)
 - [x] **Day 3** – [Treasure Island](./01_beginner/day_003_treasure_island/README.md)
-- [x] **Day 4** – Rock Paper Scissors
+- [x] **Day 4** – [Rock Paper Scissors](./01_beginner/day_004_rock_paper_scissors/README.md)
 - [x] **Day 5** – Password Generator
 - [x] **Day 6** – Escaping the Maze (functions & while loops)
 - [x] **Day 7** – Hangman
