@@ -1,18 +1,18 @@
 # 🐍 100 Days of Code – The Complete Python Pro Bootcamp
-Welcome to my personal journey through the **100 Days of Code** course on Udemy.  
+Welcome to my personal journey through the **100 Days of Code** course on Udemy.
 This repository is a living archive of every project, exercise, and experiment I build along the way – from a simple band‑name generator to full‑stack web applications and data science tools.
 
 > “The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie
 
 ## 📖 About the Course
-This is the famous **“100 Days of Code: The Complete Python Pro Bootcamp”** by Dr. Angela Yu.  
+This is the famous **“100 Days of Code: The Complete Python Pro Bootcamp”** by Dr. Angela Yu.
 The course is designed to take you from absolute beginner to a confident Python developer through **100 hands‑on projects**. You’ll learn:
 
-- Python fundamentals (variables, loops, functions, OOP)  
-- Web development with Flask / Django  
-- Data analysis with Pandas, NumPy, and Matplotlib  
-- GUI apps with Tkinter  
-- API integration, web scraping, automation  
+- Python fundamentals (variables, loops, functions, OOP)
+- Web development with Flask / Django
+- Data analysis with Pandas, NumPy, and Matplotlib
+- GUI apps with Tkinter
+- API integration, web scraping, automation
 - And much more…
 
 Every day brings a new challenge, and this repo is where I keep track of all my solutions.
@@ -28,7 +28,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 
 - [x] **Day 1** – [Band Name Generator](./01_beginner/day_001_band_name_generator/README.md)
 - [x] **Day 2** – [Tip Calculator](./01_beginner/day_002_tip-calculator/README.md)
-- [x] **Day 3** – Treasure Island (choose-your-own-adventure)
+- [x] **Day 3** – [Treasure Island](./01_beginner/day_003_treasure_island/README.md)
 - [x] **Day 4** – Rock Paper Scissors
 - [x] **Day 5** – Password Generator
 - [x] **Day 6** – Escaping the Maze (functions & while loops)
