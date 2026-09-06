@@ -36,7 +36,6 @@ while lives > 0 and not guessed:
     print(f"Word to guess: {placeholder}")
     guess = input("Guess a letter: ").lower()
 
-    # Проверка, что пользователь ввёл только одну букву
     if len(guess) != 1 or not guess.isalpha():
         print("Please enter a single letter.")
         continue
