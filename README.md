@@ -31,7 +31,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 3** – [Treasure Island](./01_beginner/day_003_treasure_island/README.md)
 - [x] **Day 4** – [Rock Paper Scissors](./01_beginner/day_004_rock_paper_scissors/README.md)
 - [x] **Day 5** – [Password Generator](./01_beginner/day_005_password_generator/README.md)
-- [x] **Day 6** – Escaping the Maze (functions & while loops)
+- [x] **Day 6** – [Escaping the Maze (Reeborg's World)](./01_beginner/day_006_escaping_the_maze/README.md)
 - [x] **Day 7** – Hangman
 - [x] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
 - [x] **Day 9** – [Secret Auction](./01_beginner/day_009_secret_auction/README.md)
