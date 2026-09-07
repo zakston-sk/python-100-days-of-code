@@ -35,7 +35,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 7** – [Hangman](./01_beginner/day_007_hangman/README.md)
 - [x] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
 - [x] **Day 9** – [Secret Auction](./01_beginner/day_009_secret_auction/README.md)
-- [ ] **Day 10** – Calculator with functions
+- [x] **Day 10** – [Calculator](./01_beginner/day_010_calculator/README.md)
 - [ ] **Day 11** – Blackjack (Capstone project)
 - [ ] **Day 12** – Number Guessing Game
 - [ ] **Day 13** – Debugging exercises
