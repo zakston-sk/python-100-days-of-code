@@ -9,7 +9,7 @@ A text-based adventure game where you make choices to find the treasure. The gam
 
 ## How to Run
 1. Make sure Python 3 is installed.
-2. Open terminal in the `day_03_treasure_island` folder.
+2. Open terminal in the `day_003_treasure_island` folder.
 3. Run:
     ```bash
     py main.py

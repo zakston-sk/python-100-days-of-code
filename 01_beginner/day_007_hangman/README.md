@@ -10,7 +10,7 @@ A classic Hangman game where the player guesses letters to reveal a hidden word.
 
 ## How to Run
 1. Make sure Python 3 is installed.
-2. Open terminal in the `day_05_hangman` folder.
+2. Open terminal in the `day_007_hangman` folder.
 3. Run:
     ```bash
     py main.py

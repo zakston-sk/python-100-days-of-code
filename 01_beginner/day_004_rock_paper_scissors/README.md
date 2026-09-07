@@ -10,7 +10,7 @@ A classic Rock Paper Scissors game against the computer. The player chooses rock
 
 ## How to Run
 1. Make sure Python 3 is installed.
-2. Open terminal in the `day_04_rock_paper_scissors` folder.
+2. Open terminal in the `day_004_rock_paper_scissors` folder.
 3. Run:
     ```bash
     py main.py

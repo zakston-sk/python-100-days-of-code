@@ -9,7 +9,7 @@ A simple program that calculates the amount each person should pay when splittin
 
 ## How to Run
 1. Make sure Python 3 is installed.
-2. Open terminal in the `day_02_tip_calculator` folder.
+2. Open terminal in the `day_002_tip_calculator` folder.
 3. Run:
     ```bash
     py main.py

@@ -9,7 +9,7 @@ A simple program that asks for the user's city and pet name, then combines them 
 
 ## How to Run
 1. Make sure Python 3 is installed.
-2. Open terminal in the `day_01_band_name_generator` folder.
+2. Open terminal in the `day_001_band_name_generator` folder.
 3. Run:
     ```bash
     py main.py
