@@ -4,6 +4,7 @@
 ![Progress](https://img.shields.io/badge/Progress-13%2F100-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Code-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
 
 Welcome to my personal journey through the **100 Days of Code** course on Udemy.
 This repository is a living archive of every project, exercise, and experiment I build along the way – from a simple band‑name generator to full‑stack web applications and data science tools.
