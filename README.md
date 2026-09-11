@@ -38,7 +38,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 10** – [Calculator](./01_beginner/day_010_calculator/README.md)
 - [ ] **Day 11** – [Blackjack (Capstone project)](./01_beginner/day_011_blackjack/README.md)
 - [ ] **Day 12** – [Number Guessing Game](./01_beginner/day_012_number_guessing_game/README.md)
-- [ ] **Day 13** – Debugging exercises
+- [ ] **Day 13** – [Debugging exercises](./01_beginner/day_013_debugging_exercises/README.md)
 - [ ] **Day 14** – Higher/Lower Game
 
 ### 🟡 Intermediate (Days 15–40)
