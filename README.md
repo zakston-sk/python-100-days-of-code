@@ -36,9 +36,9 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 8** – [Caesar Cipher](./01_beginner/day_008_caesar_cipher/README.md)
 - [x] **Day 9** – [Secret Auction](./01_beginner/day_009_secret_auction/README.md)
 - [x] **Day 10** – [Calculator](./01_beginner/day_010_calculator/README.md)
-- [ ] **Day 11** – [Blackjack (Capstone project)](./01_beginner/day_011_blackjack/README.md)
-- [ ] **Day 12** – [Number Guessing Game](./01_beginner/day_012_number_guessing_game/README.md)
-- [ ] **Day 13** – [Debugging exercises](./01_beginner/day_013_debugging_exercises/README.md)
+- [x] **Day 11** – [Blackjack (Capstone project)](./01_beginner/day_011_blackjack/README.md)
+- [x] **Day 12** – [Number Guessing Game](./01_beginner/day_012_number_guessing_game/README.md)
+- [x] **Day 13** – [Debugging exercises](./01_beginner/day_013_debugging_exercises/README.md)
 - [ ] **Day 14** – Higher/Lower Game
 
 ### 🟡 Intermediate (Days 15–40)
