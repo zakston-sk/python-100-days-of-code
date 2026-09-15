@@ -46,7 +46,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 11** – [Blackjack (Capstone project)](./01_beginner/day_011_blackjack/README.md)
 - [x] **Day 12** – [Number Guessing Game](./01_beginner/day_012_number_guessing_game/README.md)
 - [x] **Day 13** – [Debugging exercises](./01_beginner/day_013_debugging_exercises/README.md)
-- [ ] **Day 14** – Higher/Lower Game
+- [x] **Day 14** – [Higher/Lower Game](./01_beginner/day_014_higher_or_lower/README.md)
 
 ### 🟡 Intermediate (Days 15–40)
 *Object‑oriented programming, APIs, GUI, data handling, and more.*
