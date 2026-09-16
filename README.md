@@ -51,7 +51,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 ### 🟡 Intermediate (Days 15–40)
 *Object‑oriented programming, APIs, GUI, data handling, and more.*
 
-- [ ] **Day 15** – Coffee Machine (OOP)
+- [x] **Day 15** – [Coffee Machine](./02_intermediate/day_015_coffee_machine/README.md)
 - [ ] **Day 16** – Coffee Machine with OOP (from scratch)
 - [ ] **Day 17** – Quiz Game (OOP)
 - [ ] **Day 18** – Turtle Graphics / Hirst Painting
