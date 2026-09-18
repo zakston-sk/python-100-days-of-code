@@ -53,7 +53,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 
 - [x] **Day 15** – [Coffee Machine](./02_intermediate/day_015_coffee_machine/README.md)
 - [x] **Day 16** – [Coffee Machine with OOP](./02_intermediate/day_016_coffee_machine_oop/README.md)
-- [ ] **Day 17** – Quiz Game (OOP)
+- [x] **Day 17** – [Quiz Game (OOP)](./02_intermediate/day_017_quiz_game/README.md)
 - [ ] **Day 18** – Turtle Graphics / Hirst Painting
 - [ ] **Day 19** – Turtle Race
 - [ ] **Day 20** – Snake Game (Part 1)
