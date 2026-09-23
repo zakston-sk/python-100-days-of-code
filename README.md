@@ -56,7 +56,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 17** – [Quiz Game (OOP)](./02_intermediate/day_017_quiz_game/README.md)
 - [x] **Day 18** – [Hirst Painting](./02_intermediate/day_018_hirst_painting/README.md)
 - [x] **Day 19** – [Turtle Race](./02_intermediate/day_019_turtle_race/README.md)
-- [ ] **Day 20** – Snake Game (Part 1)
+- [x] **Day 20** – [Snake Game (Part 1)](./02_intermediate/day_020_snake_game/README.md)
 - [ ] **Day 21** – Snake Game (Part 2 – inheritance & slicing)
 - [ ] **Day 22** – Pong Game
 - [ ] **Day 23** – Turtle Crossing (Frogger)
