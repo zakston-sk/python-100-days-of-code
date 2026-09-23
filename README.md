@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code – The Complete Python Pro Bootcamp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-13%2F100-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-20%2F100-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Code-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
