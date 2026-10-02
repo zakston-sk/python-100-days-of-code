@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code – The Complete Python Pro Bootcamp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-22%2F100-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-23%2F100-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Code-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -59,7 +59,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 20** – [Snake Game (Part 1)](./02_intermediate/day_020_snake_game/README.md)
 - [x] **Day 21** – [Snake Game (Part 2)](./02_intermediate/day_021_snake_game/README.md)
 - [x] **Day 22** – [Pong Game](./02_intermediate/day_022_pong_game/README.md)
-- [ ] **Day 23** – Turtle Crossing (Frogger)
+- [x] **Day 23** – [Turtle Crossing (Frogger)](./02_intermediate/day_023_turtle_crossing_game/README.md)
 - [ ] **Day 24** – Mail Merge (file I/O)
 - [ ] **Day 25** – U.S. States Game (Pandas)
 - [ ] **Day 26** – NATO Alphabet (list/dict comprehensions)
