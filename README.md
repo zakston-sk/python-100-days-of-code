@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code – The Complete Python Pro Bootcamp
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-28%2F100-brightgreen?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-29%2F100-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Udemy](https://img.shields.io/badge/Udemy-100%20Days%20of%20Code-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -65,7 +65,7 @@ They are grouped into three difficulty levels – **Beginner**, **Intermediate**
 - [x] **Day 26** – [NATO Alphabet (list/dict comprehensions)](./02_intermediate/day_026_nato_alphabet/README.md)
 - [x] **Day 27** – [Miles to Km Converter](./02_intermediate/day_027_miles_to_km_converter/README.md)
 - [x] **Day 28** – [Pomodoro Timer](./02_intermediate/day_028_pomodoro/README.md)
-- [ ] **Day 29** – Password Manager (GUI + JSON)
+- [x] **Day 29** – [Password Manager](./02_intermediate/day_029_password_manager/README.md)
 - [ ] **Day 30** – Password Manager with error handling
 - [ ] **Day 31** – Flash Card App (learning French)
 - [ ] **Day 32** – Birthday Email Sender (SMTP)
